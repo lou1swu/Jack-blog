@@ -6,5 +6,5 @@
 
 #### canvas应用
 
-[单机五子棋 - 支持多种ai模式（上）](https://github.com/Lighting-Jack/Jack-blog/issues/3/)
-[单机五子棋 - 支持多种ai模式（下）](https://github.com/Lighting-Jack/Jack-blog/issues/4/)
+* [单机五子棋 - 支持多种ai模式（上）](https://github.com/Lighting-Jack/Jack-blog/issues/3/)
+* [单机五子棋 - 支持多种ai模式（下）](https://github.com/Lighting-Jack/Jack-blog/issues/4/)
