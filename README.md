@@ -3,3 +3,7 @@
 #### 报错弹窗（思路来源：[joeyguo](https://github.com/joeyguo/blog/)）
 
 [精准定位错误代码](https://github.com/Lighting-Jack/Jack-blog/issues/1)
+
+#### canvas应用
+
+[单机五子棋 - 支持多种ai模式](https://github.com/Lighting-Jack/Jack-blog/issues/3/)
