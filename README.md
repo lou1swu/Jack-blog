@@ -1,5 +1,5 @@
 # Jack-blog
->关注前端性能优化、前端动画展示、webRTC
+>关注前端性能优化、前端动画展示、nodeJS、webRTC
 #### 性能优化（持续更新）
 [从3个角度处理性能优化](https://github.com/Lighting-Jack/Jack-blog/issues/5/)
 
@@ -11,3 +11,6 @@
 
 * [单机五子棋 - 支持多种ai模式（上）](https://github.com/Lighting-Jack/Jack-blog/issues/3/)
 * [单机五子棋 - 支持多种ai模式（下）](https://github.com/Lighting-Jack/Jack-blog/issues/4/)
+
+#### 重难点
+* [JS eventLoop & nodeJS eventLoop的区别](https://github.com/Lighting-Jack/Jack-blog/issues/4/)
