@@ -14,4 +14,4 @@
 
 #### 重难点
 * [JS eventLoop](https://github.com/Lighting-Jack/Jack-blog/issues/9/)
-* [nodeJS eventLoop](https://github.com/Lighting-Jack/Jack-blog/issues/10/)
+* [nodeJS eventLoop](https://github.com/Lighting-Jack/Jack-blog/issues/11/)
