@@ -15,3 +15,4 @@
 #### 重难点
 * [JS eventLoop](https://github.com/Lighting-Jack/Jack-blog/issues/9/)
 * [nodeJS eventLoop](https://github.com/Lighting-Jack/Jack-blog/issues/11/)
+* 如何解决cluster模式下socket连接失败的问题？（Coming Soon...）
