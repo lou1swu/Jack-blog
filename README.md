@@ -13,4 +13,5 @@
 * [单机五子棋 - 支持多种ai模式（下）](https://github.com/Lighting-Jack/Jack-blog/issues/4/)
 
 #### 重难点
-* [JS eventLoop & nodeJS eventLoop的区别](https://github.com/Lighting-Jack/Jack-blog/issues/9/)
+* [JS eventLoop](https://github.com/Lighting-Jack/Jack-blog/issues/9/)
+* [nodeJS eventLoop](https://github.com/Lighting-Jack/Jack-blog/issues/10/)
